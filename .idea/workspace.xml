@@ -6,7 +6,20 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3289062-1991-4f3d-a891-d8b7cd76a93e" name="Default Changelist" comment="" />
+    <list default="true" id="c3289062-1991-4f3d-a891-d8b7cd76a93e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ConstellationFX_jar/ConstellationFX.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ConstellationFX_jar/ConstellationFX.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ConstellationFX/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ConstellationFX/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ConstellationFX/com/andreasdkunz/constellation/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ConstellationFX/com/andreasdkunz/constellation/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ConstellationFX/com/andreasdkunz/constellation/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ConstellationFX/com/andreasdkunz/constellation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ConstellationFX/com/andreasdkunz/constellation/Particle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/andreasdkunz/constellation/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cybercat3/constellation/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/andreasdkunz/constellation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cybercat3/constellation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/andreasdkunz/constellation/Particle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cybercat3/constellation/Particle.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,40 +32,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cybercat3/constellation/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#start#0;class#Main#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/andreasdkunz/constellation/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/cybercat3/constellation/Particle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="951">
-              <caret line="84" selection-start-line="84" selection-end-line="84" />
+            <state relative-caret-position="147">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
-                <element signature="e#2300#3281#0" expanded="true" />
-                <element signature="e#3280#3281#0" expanded="true" />
-                <element signature="e#3353#3354#0" expanded="true" />
-                <element signature="e#3378#3379#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/andreasdkunz/constellation/Data.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-              <folding>
-                <element signature="initializer##0;class#Data#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/andreasdkunz/constellation/Particle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-              <folding>
-                <element signature="method#Particle#0;class#Particle#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,27 +74,29 @@
       <replace>double</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/andreasdkunz/constellation/Data.java" />
-        <option value="$PROJECT_DIR$/src/com/andreasdkunz/constellation/Particle.java" />
         <option value="$PROJECT_DIR$/src/com/andreasdkunz/constellation/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/andreasdkunz/constellation/Particle.java" />
+        <option value="$PROJECT_DIR$/src/com/cybercat3/constellation/Particle.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="-10" />
     <option name="width" value="1295" />
-    <option name="height" value="1088" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,10 +131,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../libraries/gson-2.8.5-sources.jar!/" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MineSweeper" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -152,9 +156,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.andreasdkunz.constellation.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.cybercat3.constellation.Main" />
       <module name="ConstellationFX" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -181,9 +184,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -199,7 +202,7 @@
       <window_info anchor="bottom" id="Terminal" order="6" weight="0.32952183" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32952183" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -208,7 +211,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" x="651" y="59" width="618" height="962" id="Run" order="8" weight="0.34541577" />
+      <window_info anchor="right" x="651" y="59" width="618" height="962" id="Run" order="8" weight="0.34496644" />
       <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
@@ -220,35 +223,24 @@
     <entry file="jar://C:/Program Files/Amazon Corretto/jdk1.8.0_222/javafx-src.zip!/javafx/scene/input/KeyEvent.java" />
     <entry file="jar://C:/Program Files/Amazon Corretto/jdk1.8.0_222/src.zip!/java/lang/Enum.java" />
     <entry file="jar://C:/Program Files/Amazon Corretto/jdk1.8.0_222/javafx-src.zip!/javafx/scene/input/KeyCode.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/andreasdkunz/constellation/Data.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cybercat3/constellation/Data.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/cybercat3/constellation/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
-            <element signature="initializer##0;class#Data#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#start#0;class#Main#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/andreasdkunz/constellation/Particle.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cybercat3/constellation/Particle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        <state relative-caret-position="147">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding>
-            <element signature="method#Particle#0;class#Particle#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/andreasdkunz/constellation/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="951">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-          <folding>
-            <element signature="e#2300#3281#0" expanded="true" />
-            <element signature="e#3280#3281#0" expanded="true" />
-            <element signature="e#3353#3354#0" expanded="true" />
-            <element signature="e#3378#3379#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -308,6 +300,18 @@
       <state key="ModuleStructureConfigurable.UI">
         <settings>
           <last-edited>ConstellationFX</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

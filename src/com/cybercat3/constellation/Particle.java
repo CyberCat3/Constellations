@@ -1,9 +1,7 @@
-package com.andreasdkunz.constellation;
+package com.cybercat3.constellation;
 
-import com.google.gson.Gson;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
-import javafx.scene.paint.Paint;
 
 public class Particle {
     private double x;

@@ -1,4 +1,4 @@
-package com.andreasdkunz.constellation;
+package com.cybercat3.constellation;
 
 public class Data {
     private static Data instance;

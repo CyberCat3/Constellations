@@ -1,6 +1,5 @@
-package com.andreasdkunz.constellation;
+package com.cybercat3.constellation;
 
-import com.google.gson.Gson;
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;
 import javafx.application.Platform;
@@ -18,7 +17,6 @@ import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Main extends Application {
